@@ -1,3 +1,5 @@
+#Implementation of Paper Attached:
+
 import time
 def min(A):
     min=A[0]
